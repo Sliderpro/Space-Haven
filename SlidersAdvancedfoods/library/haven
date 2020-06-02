@@ -44,7 +44,7 @@
             <l co2PerMinute="4" lightNeeded="High" maxTemp="293" minTemp="283" oxygenPerMinute="10" stage="5" time="1">
                 <harvestable>
                     <products>
-                        <l element="15" howMuch="4" produceEvery="1" />
+                        <l element="15" howMuch="5" produceEvery="1" />
                         <l element="71" howMuch="0" produceEvery="1" />
                     </products>
                 </harvestable>
