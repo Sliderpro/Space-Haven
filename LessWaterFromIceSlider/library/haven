@@ -1,0 +1,17 @@
+<data>
+	<Product>
+			<product _name="Ice to Water" eid="41" interactive="true" itemScrapper="false" processValue="100" scrapper="false" smelter="false" startOnly="false" type="Process">
+			<needs>
+				<l _name="Ice" consumeEvery="10" element="40" howMuch="10" />
+			</needs>
+			<products>
+				<l _name="Water" element="16" howMuch="4" produceEvery="1" />
+			</products>
+			<difficulty level="1" skill="Industry" />
+			<desc />
+		</product>
+	</Product>
+  <Element>
+  
+  </Element>
+</data>

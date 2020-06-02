@@ -1,0 +1,8 @@
+<mod>
+  <name>Slightly less water from ice.</name>
+  <description>Decreases the amount of water gained from ice. Base value is 1 to 5, which to my opinion is quite a lot. I changed it to 4, which is slightly less crazy. By Sliderpro, credit for original files to Tron762.</description>
+  <minimumLoaderVersion>0.0.2</minimumLoaderVersion>
+  <gameVersions>
+    <v>0.2</v>
+  </gameVersions>
+</mod>
