@@ -1,6 +1,7 @@
 # Space-Haven
 Hey! This is the place to get some mods for Space Haven!.
 Most of the code work is done by piggy riding other people, so I give credit for all those good people who can actually code :P 
+Feel free to take the code and do whatever you want with it, just tell me (maybe).
 
 
 1 - Less water from ice. 
