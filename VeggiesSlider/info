@@ -1,0 +1,14 @@
+<mod>
+    <name>Sliders' advanced foods</name>
+    <description>
+Some advanced foods. Credit to Anatarist for base files.
+
+Currently:
+-Potatoes grow longer and are quite picky, but give more food in return . Worthy, if you can make it work!
+-BAM: Batch artificial meat. Industrial process to create more meat per one go. It takes a lot longer, takes a lot of CO2, result is even more toxic, but you get that juicy juicy meat... you can always eat some bugs if you don't want that!
+    </description>
+    <minimumLoaderVersion>0.0.1</minimumLoaderVersion>
+    <gameVersions>
+        <v>0.2</v>
+    </gameVersions>
+</mod>

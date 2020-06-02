@@ -1,0 +1,16 @@
+<t>
+	<object_potatoes_name id="1488" pid="121">
+		<EN>Potatoes</EN>
+	</object_potatoes_name>
+	<object_potatoes_desc id="1489" pid="121">
+    <EN>Crop that has been around for ages. Produces more food, takes a bit more CO2 from air. Very senstive to temperatures and grows slower then typical space veggies therefore more difficult to complete, but rewarding. Advanced crop.</EN>
+	</object_potatoes_desc>
+
+<object_BAM_name id="1490" pid="121">
+		<EN>Bulk artificial meat</EN>
+	</object_BAM_name>
+	<object_BAM_desc id="1491" pid="121">
+    <EN>Prepares a big batch of artificial meat. Takes even more CO2, grows longer, is more difficult to complete, but more space-concious and uses less mainentenence. Advanced crop. Pretty much as close as you get to industrial artificial meat production in limited space. You will do this eventually. </EN>
+	</object_BAM_desc>
+
+	</t>
